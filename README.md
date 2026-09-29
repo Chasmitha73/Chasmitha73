@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Chasmitha B
 
-<!--
-**Chasmitha73/Chasmitha73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently learning Python and Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in AI/ML, Software Development and Cyber Security
+
+📚 Preparing for placements
+
+🛠️ Skills
+- Python
+- Git & GitHub
+- HTML & CSS
+- SQL
+
+📌 Projects
+- AI Accident Detection System
+
+📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/chasmitha-b-03161b32a]
+- GitHub: [https://github.com/Chasmitha73]
